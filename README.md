@@ -11,8 +11,8 @@ cd IJKPlayer-framework-script
 chmod 777 shell/*
 cd shell
 ```
-
-##### 逐步执行(推荐)
+#### 执行脚本
+###### 逐步执行(推荐)
 ```
 pre-build-framework-step1.sh
 //如果不需要多种格式支持可以跳过此步
