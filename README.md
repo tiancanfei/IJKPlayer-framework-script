@@ -12,7 +12,7 @@ chmod 777 shell/*
 cd shell
 ```
 #### 执行脚本
-###### 逐步执行(推荐)
+###### 方法一：逐步执行(推荐)
 ```
 pre-build-framework-step1.sh
 //如果不需要多种格式支持可以跳过此步
@@ -24,7 +24,7 @@ pre-build-framework-step5.sh
 pre-build-framework-step6.sh
 ```
 
-##### 一键执行(不推荐，容易出错)
+###### 方法二：一键执行(不推荐，容易出错)
 ```
 //视频资源地址使用HTTP
 pre-build-http-framework.sh
